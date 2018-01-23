@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;app&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../gopl.io" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../launchpad.net" />
+      <root url="file://$PROJECT_DIR$/../../../go4.org" />
+      <root url="file://$PROJECT_DIR$/../../../k8s.io" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../ftpclientwithgo" />
+      <root url="file://$PROJECT_DIR$/../../../cloud.google.com" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../gopl.io" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../launchpad.net" />
+      <root url="file://$PROJECT_DIR$/../../../go4.org" />
+      <root url="file://$PROJECT_DIR$/../../../k8s.io" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../ftpclientwithgo" />
+      <root url="file://$PROJECT_DIR$/../../../cloud.google.com" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/app" />
+    </excluded>
+  </library>
+</component>
